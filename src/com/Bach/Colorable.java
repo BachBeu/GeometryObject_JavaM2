@@ -1,4 +1,5 @@
 package com.Bach;
 
-public class Colorable {
+public interface Colorable {
+    void howtoColor();
 }
